@@ -1,9 +1,9 @@
 # Multiple-Choice-Trainer (graphic)
-# Created speaking with Chatgpt (openai.com)
+## Created speaking with Chatgpt (openai.com)
 
 It works, but one needs to provide a list of questions.
 
-A little remember for me: In Windows, one needs an X-Server to run the graphical interface.
+ A little remember for me: In Windows, one needs an X-Server to run the graphical interface.
 
 ## TODO:
 - As a User, I will visualize a set of possible topics.
